@@ -4,7 +4,7 @@ _Last updated: 2026-05-06_
 
 This note summarizes a working OpenClaw Telegram voice-note setup: a Telegram bot receives voice/audio messages, OpenClaw routes the downloaded media through local Whisper transcription, and the transcribed turn can be handled by the configured OpenClaw agent.
 
-This is a sanitized/public version. Remove real bot tokens, chat IDs, usernames, hostnames, absolute user paths, logs containing secrets, and environment-specific identifiers before publishing.
+This public README intentionally omits real bot tokens, chat ID's, usernames, hostnames, logs, and enviromen-specifi identifiers.
 
 ## Current Status
 
